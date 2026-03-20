@@ -9,8 +9,8 @@
 
 #include <kvn_safe_callback.hpp>
 
-#include "winrt/Windows.Devices.Bluetooth.Advertisement.h"
-#include "winrt/Windows.Devices.Bluetooth.h"
+#include "winrt/windows.devices.bluetooth.advertisement.h"
+#include "winrt/windows.devices.bluetooth.h"
 
 #include <atomic>
 #include <condition_variable>

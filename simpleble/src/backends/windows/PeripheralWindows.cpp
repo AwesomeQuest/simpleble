@@ -15,9 +15,9 @@
 
 #include <simpleble/Exceptions.h>
 
-#include "winrt/Windows.Foundation.Collections.h"
-#include "winrt/Windows.Foundation.h"
-#include "winrt/Windows.Storage.Streams.h"
+#include "winrt/windows.foundation.collections.h"
+#include "winrt/windows.foundation.h"
+#include "winrt/windows.storage.streams.h"
 #include "winrt/base.h"
 
 #include <iostream>

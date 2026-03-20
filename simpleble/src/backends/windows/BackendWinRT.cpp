@@ -3,10 +3,10 @@
 #include "AdapterWindows.h"
 #include "CommonUtils.h"
 
-#include "winrt/Windows.Devices.Bluetooth.h"
-#include "winrt/Windows.Devices.Enumeration.h"
-#include "winrt/Windows.Devices.Radios.h"
-#include "winrt/Windows.Foundation.Collections.h"
+#include "winrt/windows.devices.bluetooth.h"
+#include "winrt/windows.devices.enumeration.h"
+#include "winrt/windows.devices.radios.h"
+#include "winrt/windows.foundation.collections.h"
 
 #include "simpleble/Config.h"
 #include "Utils.h"

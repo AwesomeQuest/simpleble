@@ -9,8 +9,8 @@
 
 #include <kvn_safe_callback.hpp>
 
-#include "winrt/Windows.Devices.Bluetooth.GenericAttributeProfile.h"
-#include "winrt/Windows.Devices.Bluetooth.h"
+#include "winrt/windows.devices.bluetooth.genericattributeprofile.h"
+#include "winrt/windows.devices.bluetooth.h"
 
 #include <condition_variable>
 #include <functional>

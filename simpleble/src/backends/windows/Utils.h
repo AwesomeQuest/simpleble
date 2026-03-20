@@ -7,8 +7,8 @@
 #include <simpleble/Exceptions.h>
 #include <simpleble/Types.h>
 
-#include "winrt/windows.foundation.h"
-#include "winrt/windows.storage.streams.h"
+#include "windows.foundation.h"
+#include "windows.storage.streams.h"
 #include "winrt/base.h"
 
 using namespace winrt::Windows;

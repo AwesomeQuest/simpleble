@@ -10,11 +10,11 @@
 #include "Utils.h"
 #include "MtaManager.h"
 
-#include "winrt/windows.devices.bluetooth.h"
-#include "winrt/windows.devices.radios.h"
-#include "winrt/windows.devices.enumeration.h"
-#include "winrt/windows.foundation.collections.h"
-#include "winrt/windows.foundation.h"
+#include "windows.devices.bluetooth.h"
+#include "windows.devices.radios.h"
+#include "windows.devices.enumeration.h"
+#include "windows.foundation.collections.h"
+#include "windows.foundation.h"
 #include "winrt/base.h"
 
 #include <algorithm>
